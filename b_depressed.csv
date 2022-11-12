@@ -1428,15 +1428,3 @@ Survey_id,Ville_id,sex,Age,Married,Number_children,education_level,total_members
 893,184,1,66,0,0,1,1,42440731,22861940,22562605,12545372,56534257,0,1,0,0,12545373,10454478,0,46444572,10454478,1
 363,75,1,51,1,1,12,5,28912201,22861940,23399979,26692283,28203066,0,0,0,0,30028818,31363432,0,28411718,28292707,0
 231,12,1,33,0,4,8,5,81678391,22861940,47855984,10289875,10730298,0,1,0,1,20019212,16682677,0,69642126,13012488,0
-
-
-Survey_id,Ville_id,
-
-sex,Age, Married , Number_children, education_level, total_members , gained_asset (house or land), durable_asset (car, furniture) ,save_asset (savings),
-
-living_expenses ,other_expenses,incoming_salary, incoming_own_farm,incoming_business,
-
-incoming_no_business,incoming_agricultural,farm_expenses,labor_primary,lasting_investment,no_lasting_investmen,depressed
-
-Expected contributors: Married (-), total_members (high  then -), incoming_salary ( high then -) , living_expenses (high then +) , 
-gained_asset (high then - ) [house or land], durable_asset (high then -) [car, furniture] ,save_asset (high then - )  [savings,
